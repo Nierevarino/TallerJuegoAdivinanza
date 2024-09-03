@@ -22,6 +22,7 @@ class Program
                     if (i == nmr)
                     {
                         Console.WriteLine("Felicidades has adivinado!");
+                        Console.WriteLine($"Te tomo {contador} intentos");
                         acierto=true;
                     }
                     else

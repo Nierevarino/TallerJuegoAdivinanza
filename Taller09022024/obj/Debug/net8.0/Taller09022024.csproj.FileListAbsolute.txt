@@ -12,3 +12,4 @@ C:\Users\admin\Documents\JuanDavidBermudezC\Taller09022024\Taller09022024\obj\De
 C:\Users\admin\Documents\JuanDavidBermudezC\Taller09022024\Taller09022024\obj\Debug\net8.0\Taller09022024.pdb
 C:\Users\admin\Documents\JuanDavidBermudezC\Taller09022024\Taller09022024\obj\Debug\net8.0\Taller09022024.genruntimeconfig.cache
 C:\Users\admin\Documents\JuanDavidBermudezC\Taller09022024\Taller09022024\obj\Debug\net8.0\ref\Taller09022024.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller09022024\Taller09022024\obj\Debug\net8.0\Taller09022024.sourcelink.json
