@@ -38,18 +38,19 @@ class Program
             {
                 case 's':
                 case 'S':
-                Console.WriteLine("¡Vamos a jugar otra vez!");
+                Console.WriteLine("Jugemos una vez mas");
                 break;
 
                 case 'n':
                 case 'N':
-                Console.WriteLine("¡Gracias por jugar! Hasta la próxima.");
+                Console.WriteLine("Nos vemos pa prixima vez");
                 reintentar=true;
                 break;
 
                 default:
-                Console.WriteLine("Opción no válida. Salir del juego.");
-                jugarDeNuevo = 'n'; 
+                Console.WriteLine("Digitacion no valida. Cerrando programa");
+                jugarDeNuevo = 'n';
+                reintentar=true;
                 break;
             }
         }
